@@ -1585,8 +1585,8 @@ section.payment-section {
 #travel-influences .inner .grid .article-1 .card .card-body {
 	position: absolute;
 	top: 30%;
-	left: 18%;
-	text-align: center;
+	left: 5%;
+	/* text-align: center; */
 }
 #travel-influences .inner .grid .article .card .card-body {
 	padding: 0.4rem !important;
