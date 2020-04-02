@@ -392,6 +392,13 @@
 	#sign-up-bottom form {
 		margin-left: 1.5rem;
 	}
+	#profile-user .img-profile {
+		text-align: center;
+	}
+	#profile-user .img-profile img {
+		width: fit-content;
+		margin: auto;
+	}
 }
 @media (max-width: 414px) {
 	#travel-news-info .container-fluid {
