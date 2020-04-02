@@ -14,4 +14,5 @@ var textNotification = $('#showcase .search-result-notification p');
 var submitResultBtn = $('#showcase button[type="submit"]');
 submitResultBtn.on('click', (e) => {
   textNotification.removeClass('d-none');
+  e.preventDefault();
 });
